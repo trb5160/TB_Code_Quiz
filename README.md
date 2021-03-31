@@ -4,7 +4,7 @@ Description: This simple web application is designed to be a basic test of one's
 questions about different aspects of javascript in 75 seconds.  A wrong answer subtracts from the remaining time.  At the end, the user receives 
 a score based on the amount of time remaining and how many questions they got right.   
 
-![Alt text]("/assets/images/screenshot.png")
+![Alt text](/assets/images/screenshot.png)
 
 Website Link:  https://trb5160.github.io/TB_Code_Quiz/
 Github Repository Link: https://github.com/trb5160/TB_Code_Quiz.git
